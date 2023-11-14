@@ -1,0 +1,12 @@
+
+            body{
+                background-color: lightgrey;
+                text-align: center;
+                font-family: sans-serif;
+            }
+            #vardaspavarde{
+                font-size: 50px;
+            }
+            #face{
+                align-items: right;
+            }
